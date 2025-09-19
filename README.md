@@ -1,0 +1,1 @@
+Digital forensics analysis of a FAT12 disk image, including duplication, partition analysis, directory entries, storage/deletion behavior, file recovery, and password checks using tools like Autopsy and The Sleuth Kit.
